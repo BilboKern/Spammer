@@ -1,0 +1,13 @@
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe.config
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.exe
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Debug\MessageSpammer.pdb
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csprojAssemblyReference.cache
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.spammer.resources
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.Properties.Resources.resources
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.GenerateResource.cache
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.exe
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.pdb
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Debug\WindowsInput.dll
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Debug\WindowsInput.xml
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Debug\MessageSpammer.csproj.CopyComplete

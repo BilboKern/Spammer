@@ -1,0 +1,12 @@
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Release\MessageSpammer.exe.config
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Release\MessageSpammer.exe
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Release\MessageSpammer.pdb
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Release\WindowsInput.dll
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\bin\Release\WindowsInput.xml
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.spammer.resources
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.Properties.Resources.resources
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.csproj.GenerateResource.cache
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.csproj.CopyComplete
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.exe
+C:\Users\Daniel Kern\source\repos\MessageSpammer\MessageSpammer\obj\Release\MessageSpammer.pdb
